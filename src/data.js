@@ -10,12 +10,12 @@ export const listData = [
       drop: [
          {
             id: 1,
-            to: '/about/#team',
+            to: '/#team',
             text: 'Наша Команда'
          },
          {
             id: 3,
-            to: '/about/#contacts',
+            to: '/#contacts',
             text: 'Контакты'
          },
          {
