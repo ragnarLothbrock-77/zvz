@@ -1,0 +1,61 @@
+.personal {
+   padding: 40px 0;
+   position: relative;
+    &::after {
+      content: ' ';
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      border-bottom: 1px solid black;
+      width: 100%;
+   }
+   &__body {
+      height: 100%;
+   }
+   &__list {
+      display: flex;
+      justify-content: space-around;
+      align-self: center;
+      flex-wrap: wrap;
+      list-style: none;
+      padding: -10px;
+   }
+}
+
+.title {
+   text-align: center;
+   font-family: 'Amatic';
+   font-style: italic;
+   font-size: 50px;
+   margin-bottom: 40px;
+}
+
+
+.personal-item {
+   font-family: 'Caveat';
+   width: 300px;
+   transition: all 0.2s ease-in;
+   flex: 1 1 auto;
+   margin: 10px;
+   padding: 50px;
+   &__photo {
+      display: block;
+      height: 100px;
+      width: 100px;
+      margin: 0 auto;
+      border-radius: 50%;
+   }
+   &__discription {
+      margin-top: 20px;
+      &_name {
+         font-size: 20px;
+         text-align: center;
+      }
+      &_position {
+         text-align: center;
+      }
+   }
+   &:hover {
+      background:#9FBCEA;
+   }
+}

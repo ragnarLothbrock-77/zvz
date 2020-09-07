@@ -1,0 +1,72 @@
+.contacts {
+  margin: 40px 0;
+}
+
+.contacts__flex {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.contacts__body {
+  max-width: 1120px;
+  margin: 0 auto;
+  padding: 0 10px;
+}
+
+.contacts-map {
+  max-width: 500px;
+  font-family: 'Caveat';
+}
+
+.contacts-map__head {
+  margin-bottom: 20px;
+  font-size: 30px;
+  text-align: center;
+}
+
+.contacts-map__map {
+  border: 3px solid darkgoldenrod;
+  -webkit-box-shadow: 0 0 20px #9c640c;
+          box-shadow: 0 0 20px #9c640c;
+}
+
+.contacts-info {
+  -webkit-box-flex: 1;
+      -ms-flex: 1 1 auto;
+          flex: 1 1 auto;
+  margin-left: 50px;
+}
+
+.info-box {
+  list-style: none;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+.info-box__item {
+  margin-bottom: 30px;
+}
+
+.info-box__item:last-child {
+  margin-bottom: 0;
+}
+
+.info-box__item_title {
+  font-family: 'Amatic';
+  font-size: 30px;
+}
+
+.info-box__item_text {
+  font-family: 'Caveat';
+  font-size: 20px;
+}
+/*# sourceMappingURL=Contacts.css.map */

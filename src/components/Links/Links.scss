@@ -1,0 +1,33 @@
+.links-body {
+   padding: 40px 10px;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+
+
+.links-title {
+   font-family: 'Caveat';
+   font-size: 20px;
+}
+
+.links-list {
+   list-style: none;
+   display: flex;
+   align-items: center;
+
+
+   &__item {
+      
+      &_link {
+         height: 100%;
+      }
+      &_img {
+         width: 100px;
+         transition: all 1s;
+         &:hover {
+            width: 130px;
+         }
+      }
+   }
+}

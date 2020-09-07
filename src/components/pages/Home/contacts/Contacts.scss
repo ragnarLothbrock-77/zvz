@@ -1,0 +1,52 @@
+.contacts {
+   margin: 40px 0;
+   &__flex {
+      display: flex;
+      align-items: center;
+   }
+   &__body {
+      max-width: 1120px;
+      margin: 0 auto;  
+      padding: 0 10px;
+   }
+}
+
+.contacts-map {
+   max-width: 500px;
+   font-family: 'Caveat';
+   &__head {
+      margin-bottom: 20px;
+      font-size: 30px;
+      text-align: center;
+   }
+   &__map {
+      border: 3px solid darkgoldenrod;
+      box-shadow: 0 0 20px rgba(156, 100, 12, 1);
+   }
+}
+
+.contacts-info {
+   flex: 1 1 auto;
+   margin-left: 50px;
+}
+
+.info-box {
+   list-style: none;
+   display: flex;
+   flex-direction: column; 
+   &__item {
+      margin-bottom: 30px;
+      &:last-child {
+         margin-bottom: 0;
+      }
+      &_title {
+         font-family: 'Amatic';
+         font-size: 30px;
+      }
+      &_text {
+         font-family: 'Caveat';
+         font-size: 20px;
+      }
+   }
+}
+

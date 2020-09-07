@@ -1,0 +1,123 @@
+@import './personal/Personal.scss';
+
+
+.bg {
+ background: url('../../../assets/img/main-bg.png') 50%/cover no-repeat;
+ height: 600px;
+}
+
+.bg {
+   margin-top: 100px;
+   h1 {
+      padding-top: 60px;
+   }
+}
+
+/*     INFO     */
+.info {
+   &__body {
+      font-family: 'Caveat';
+      width: 100%;
+      height: 100%;
+   }
+}
+.info-item-list {
+   position: relative;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   flex: 33.333%;
+   flex-grow: 1;
+}
+.info-item {
+   position: relative;
+   padding-bottom: 25px;
+   border-left: 4px solid black;
+   width: 100%;
+   &:last-child {
+      border-right: 4px solid black;
+   }
+   &:before {
+      content:' ';
+      position: absolute;
+      top: 20px;
+      left: 37%;
+      border-bottom: 2px solid darkgoldenrod;
+      width: 100px;
+   }
+   &__prev {
+      margin-top: 30px;
+      text-align: center;
+   }
+   &__number{
+      text-align: center;
+      font-size: 100px;
+      font-weight:900;
+   }
+   &__text{
+      text-align: center;
+      font-size: 30px;
+
+   }
+}
+
+/*  HISTORY */
+.info-history {
+   position: relative;
+   &::after {
+      content: ' ';
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      border-bottom: 1px solid black;
+      width: 100%;
+   }
+    
+}
+.info-history-tabs {
+   height: 75px;
+   margin: 0 auto;
+   background: darkgoldenrod;
+}
+
+.tabs-list {
+   display: flex;
+   justify-content: space-around;
+   align-items: center;
+   list-style: none;
+   padding-top: 5px;
+   &__item {
+      font-size: 40px;
+      font-weight: bold;
+      color: white;
+      padding:5px;
+      transition: all 0.2s ease-in;
+      font-family: 'Amatic';
+      font-style: italic;
+      font-weight: 400;
+      &:hover {
+         color: black;
+      }
+   }
+}
+
+.info-history-main {
+   width: 1120px;
+   margin: 0 auto;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   padding: 70px 0;
+   font-family: 'Caveat';
+   &__text {
+      font-size: 30px;
+      text-align: center;
+   }
+   &__img-block {
+      margin-left: 50px;
+   }
+   &__img{
+      height: 300px;
+      width: 500px;
+   }
+}
