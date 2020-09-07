@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/zvz/static/css/main.bc8c4265.chunk.css",
-    "main.js": "/zvz/static/js/main.77e056b3.chunk.js",
-    "main.js.map": "/zvz/static/js/main.77e056b3.chunk.js.map",
+    "main.js": "/zvz/static/js/main.b93e9f32.chunk.js",
+    "main.js.map": "/zvz/static/js/main.b93e9f32.chunk.js.map",
     "runtime-main.js": "/zvz/static/js/runtime-main.0f0df52e.js",
     "runtime-main.js.map": "/zvz/static/js/runtime-main.0f0df52e.js.map",
     "static/js/2.1c47220f.chunk.js": "/zvz/static/js/2.1c47220f.chunk.js",
     "static/js/2.1c47220f.chunk.js.map": "/zvz/static/js/2.1c47220f.chunk.js.map",
     "index.html": "/zvz/index.html",
-    "precache-manifest.f7de1ba86b578ac41bfd20fb077b5d91.js": "/zvz/precache-manifest.f7de1ba86b578ac41bfd20fb077b5d91.js",
+    "precache-manifest.62587870a26937b23535c01ca37ca521.js": "/zvz/precache-manifest.62587870a26937b23535c01ca37ca521.js",
     "service-worker.js": "/zvz/service-worker.js",
     "static/css/main.bc8c4265.chunk.css.map": "/zvz/static/css/main.bc8c4265.chunk.css.map",
     "static/js/2.1c47220f.chunk.js.LICENSE.txt": "/zvz/static/js/2.1c47220f.chunk.js.LICENSE.txt",
@@ -27,6 +27,6 @@
     "static/js/runtime-main.0f0df52e.js",
     "static/js/2.1c47220f.chunk.js",
     "static/css/main.bc8c4265.chunk.css",
-    "static/js/main.77e056b3.chunk.js"
+    "static/js/main.b93e9f32.chunk.js"
   ]
 }
