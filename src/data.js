@@ -3,7 +3,7 @@ export const listData = [
    {
       type: 'about',
       id: 1,
-      to: '/about',
+      to: '/',
       text: 'О Нас',
       icon: true,
       isDrop: true,
