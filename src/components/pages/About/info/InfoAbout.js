@@ -1,10 +1,10 @@
 import React, { useState } from 'react'
 import HistoriAbout from './HistoriAbout'
-import { historyData } from '../../../data'
+import { historyData } from '../../../../data'
 
 
 
-function Compon() {
+function InfoAbout() {
    const [tab, setTab] = useState(true)
 
    const handleTabe = (event) => {
@@ -74,4 +74,4 @@ function Compon() {
    )
 }
 
-export default Compon
+export default InfoAbout

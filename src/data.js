@@ -3,19 +3,19 @@ export const listData = [
    {
       type: 'about',
       id: 1,
-      to: '/',
+      to: '/about',
       text: 'О Нас',
       icon: true,
       isDrop: true,
       drop: [
          {
             id: 1,
-            to: '/#team',
+            to: '/about/#team',
             text: 'Наша Команда'
          },
          {
             id: 3,
-            to: '/',
+            to: '/about/#contacts',
             text: 'Контакты'
          },
          {

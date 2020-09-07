@@ -19,7 +19,7 @@ function Contacts({ title }) {
 
    return (
       <>
-         <div className="contacts">
+         <div id="contacts" className="contacts">
             <div className="contacts__body">
                <div className="contacts__title title">Контакты</div>
                <div className="contacts__flex">

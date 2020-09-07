@@ -1,9 +1,0 @@
-{
-    "version": 3,
-    "mappings": "AAAA,AAAA,MAAM,CAAC;EACJ,UAAU,EAAE,uCAAuC,CAAC,SAAS,CAAC,SAAS;EACvE,MAAM,EAAE,MAAM;CAChB",
-    "sources": [
-        "Clubs.scss"
-    ],
-    "names": [],
-    "file": "Clubs.css"
-}

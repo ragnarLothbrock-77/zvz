@@ -1,0 +1,35 @@
+
+   .documents {
+      padding: 0 0 40px 0;
+      position: relative;
+         &::after {
+         content: ' ';
+         position: absolute;
+         bottom: 0;
+         left: 0;
+         border-bottom: 1px solid black;
+         width: 100%;
+   }
+   }
+
+   .documents-body {
+
+   }
+
+   .documents-header {}
+
+   .documents-header-info-list {
+      list-style: none;
+      font-family: 'Caveat';
+      font-size: 20px;
+      
+      &__text {
+         padding-bottom: 20px;
+         &_link {
+            text-decoration: none;
+            color: darkgoldenrod;
+         }
+      }
+   }
+
+   

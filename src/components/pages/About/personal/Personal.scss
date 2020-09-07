@@ -1,5 +1,5 @@
 .personal {
-   padding: 40px 0;
+   padding: 0 0 40px 0;
    position: relative;
     &::after {
       content: ' ';
@@ -27,17 +27,17 @@
    font-family: 'Amatic';
    font-style: italic;
    font-size: 50px;
-   margin-bottom: 40px;
+   margin: 40px 0;
 }
 
 
 .personal-item {
    font-family: 'Caveat';
    width: 300px;
-   transition: all 0.2s ease-in;
    flex: 1 1 auto;
    margin: 10px;
    padding: 50px;
+   transition: all 0.2s ease-out;
    &__photo {
       display: block;
       height: 100px;
@@ -52,10 +52,11 @@
          text-align: center;
       }
       &_position {
+         font-size: 15px;
          text-align: center;
       }
    }
    &:hover {
-      background:#9FBCEA;
+      box-shadow: 2px 3px 3px rgba(0, 0, 0, 0.2) ;
    }
 }

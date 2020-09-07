@@ -1,9 +1,0 @@
-{
-    "version": 3,
-    "mappings": "AAAA,AAAA,SAAS,CAAC;EACP,UAAU,EAAE,0CAA0C,CAAC,SAAS,CAAC,SAAS;EAC1E,MAAM,EAAE,MAAM;CAChB",
-    "sources": [
-        "Services.scss"
-    ],
-    "names": [],
-    "file": "Services.css"
-}

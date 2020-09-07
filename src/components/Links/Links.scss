@@ -1,5 +1,5 @@
 .links-body {
-   padding: 40px 10px;
+   padding: 50px 10px;
    display: flex;
    align-items: center;
    justify-content: center;
@@ -8,7 +8,7 @@
 
 .links-title {
    font-family: 'Caveat';
-   font-size: 20px;
+   font-size: 25px;
 }
 
 .links-list {
@@ -24,9 +24,10 @@
       }
       &_img {
          width: 100px;
-         transition: all 1s;
+         transition: all 0.5s ease-out;
          &:hover {
-            width: 130px;
+            padding-left: 10px;
+            box-shadow: 2px 3px  rgba(0, 0, 0, 0.4);
          }
       }
    }

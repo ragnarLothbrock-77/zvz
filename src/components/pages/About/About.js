@@ -1,15 +1,17 @@
 import React from 'react'
-import './Home.scss'
-import Compon from './Compon'
+import './About.scss'
+import InfoAbout from './info/InfoAbout'
 import Personal from './personal/Personal'
 import Contacts from './contacts/Contacts'
+import Documents from './Documents/Documents'
 
-function Home() {
+function About() {
    return (
       <>
          <div className="bg"></div>
-         <Compon />
-         <Personal listName={'Администрация'} />
+         <InfoAbout />
+         <Personal listName={'Наша Команда'} />
+         {/* <Documents /> */}
          <Contacts
             title={'Муниципальное Бюджетное Учреждение Культуры Дом Культуры "Звёздный"'}
          />
@@ -17,4 +19,4 @@ function Home() {
    )
 }
 
-export default Home
+export default About
