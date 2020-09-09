@@ -11,7 +11,7 @@ function About() {
          <div className="bg"></div>
          <InfoAbout />
          <Personal listName={'Наша Команда'} />
-         {/* <Documents /> */}
+         <Documents />
          <Contacts
             title={'Муниципальное Бюджетное Учреждение Культуры Дом Культуры "Звёздный"'}
          />

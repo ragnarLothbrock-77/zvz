@@ -7,6 +7,8 @@ import About from './components/pages/About/About'
 import Items from './components/pages/Items/Items'
 import Clubs from './components/pages/Clubs/Clubs'
 import Services from './components/pages/Servises/Services'
+import Footer from './components/Footer/Footer';
+
 
 function App() {
   return (
@@ -18,6 +20,7 @@ function App() {
         <Route path='/clubs' component={Clubs} />
         <Route path='/services' component={Services} />
       </Switch>
+      <Footer />
     </Router>
   );
 }

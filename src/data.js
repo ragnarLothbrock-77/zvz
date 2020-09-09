@@ -14,15 +14,15 @@ export const listData = [
             text: 'Наша Команда'
          },
          {
+            id: 2,
+            to: '/#info',
+            text: 'Правовая Информация'
+         },
+         {
             id: 3,
             to: '/#contacts',
             text: 'Контакты'
-         },
-         {
-            id: 2,
-            to: '/',
-            text: 'Фотогалерея'
-         },
+         }
       ]
    },
    {
@@ -208,6 +208,27 @@ export const linksData = [
       id: 4,
       alt: 'Twitter',
       src: require('./assets/img/con/twitter.png'),
+      to: 'https://twitter.com/'
+   }
+]
+
+export const linksFooterData = [
+   {
+      id: 1,
+      alt: 'Instagram',
+      src: require('./assets/img/con/i-inst.png'),
+      to: 'https://www.instagram.com/'
+   },
+   {
+      id: 2,
+      alt: 'VK',
+      src: require('./assets/img/con/i-vk.png'),
+      to: 'https://vk.com/'
+   },
+   {
+      id: 3,
+      alt: 'Facebook',
+      src: require('./assets/img/con/i-fb.png'),
       to: 'https://twitter.com/'
    }
 ]
