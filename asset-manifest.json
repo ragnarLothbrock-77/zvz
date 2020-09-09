@@ -1,32 +1,36 @@
 {
   "files": {
-    "main.css": "/zvz/static/css/main.bc8c4265.chunk.css",
-    "main.js": "/zvz/static/js/main.b93e9f32.chunk.js",
-    "main.js.map": "/zvz/static/js/main.b93e9f32.chunk.js.map",
+    "main.css": "/zvz/static/css/main.f6f9e237.chunk.css",
+    "main.js": "/zvz/static/js/main.51c5a676.chunk.js",
+    "main.js.map": "/zvz/static/js/main.51c5a676.chunk.js.map",
     "runtime-main.js": "/zvz/static/js/runtime-main.0f0df52e.js",
     "runtime-main.js.map": "/zvz/static/js/runtime-main.0f0df52e.js.map",
-    "static/js/2.1c47220f.chunk.js": "/zvz/static/js/2.1c47220f.chunk.js",
-    "static/js/2.1c47220f.chunk.js.map": "/zvz/static/js/2.1c47220f.chunk.js.map",
+    "static/js/2.34ef996b.chunk.js": "/zvz/static/js/2.34ef996b.chunk.js",
+    "static/js/2.34ef996b.chunk.js.map": "/zvz/static/js/2.34ef996b.chunk.js.map",
     "index.html": "/zvz/index.html",
-    "precache-manifest.62587870a26937b23535c01ca37ca521.js": "/zvz/precache-manifest.62587870a26937b23535c01ca37ca521.js",
+    "precache-manifest.e52bfaa033d8b4f9f56f25f4c6f70126.js": "/zvz/precache-manifest.e52bfaa033d8b4f9f56f25f4c6f70126.js",
     "service-worker.js": "/zvz/service-worker.js",
-    "static/css/main.bc8c4265.chunk.css.map": "/zvz/static/css/main.bc8c4265.chunk.css.map",
-    "static/js/2.1c47220f.chunk.js.LICENSE.txt": "/zvz/static/js/2.1c47220f.chunk.js.LICENSE.txt",
+    "static/css/main.f6f9e237.chunk.css.map": "/zvz/static/css/main.f6f9e237.chunk.css.map",
+    "static/js/2.34ef996b.chunk.js.LICENSE.txt": "/zvz/static/js/2.34ef996b.chunk.js.LICENSE.txt",
     "static/media/fonts.scss": "/zvz/static/media/Montserrat-Thin.43dd5b7a.ttf",
     "static/media/Clubs.scss": "/zvz/static/media/clubs-bg.1c0ffc62.jpg",
+    "static/media/doc.pdf": "/zvz/static/media/doc.d6001755.pdf",
     "static/media/helena.jpg": "/zvz/static/media/helena.d2e0ec04.jpg",
+    "static/media/i-inst.png": "/zvz/static/media/i-inst.0fe36e5f.png",
+    "static/media/i-vk.png": "/zvz/static/media/i-vk.90ee9b02.png",
     "static/media/Items.scss": "/zvz/static/media/items-bg.82aa2119.jpg",
     "static/media/logo.png": "/zvz/static/media/logo.a304b845.png",
     "static/media/About.scss": "/zvz/static/media/main-bg.cc64fb76.png",
     "static/media/semen.jpeg": "/zvz/static/media/semen.80d724b0.jpeg",
     "static/media/Services.scss": "/zvz/static/media/services-bg.81ca10c3.jpg",
     "static/media/template.jpg": "/zvz/static/media/template.c50defe1.jpg",
+    "static/media/Footer.scss": "/zvz/static/media/wp.b88a7ad9.jpg",
     "static/media/zvz.jpeg": "/zvz/static/media/zvz.704312af.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.0f0df52e.js",
-    "static/js/2.1c47220f.chunk.js",
-    "static/css/main.bc8c4265.chunk.css",
-    "static/js/main.b93e9f32.chunk.js"
+    "static/js/2.34ef996b.chunk.js",
+    "static/css/main.f6f9e237.chunk.css",
+    "static/js/main.51c5a676.chunk.js"
   ]
 }

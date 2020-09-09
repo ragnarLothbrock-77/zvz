@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "21b178b488bb0c6aaa5fbeae308ceea2",
+    "revision": "951571402a27de7f83cd75707734ec2e",
     "url": "/zvz/index.html"
   },
   {
-    "revision": "fb56cb25f613382eb014",
-    "url": "/zvz/static/css/main.bc8c4265.chunk.css"
+    "revision": "b46015fddf9bdd703f4e",
+    "url": "/zvz/static/css/main.f6f9e237.chunk.css"
   },
   {
-    "revision": "8d0b286f3717c79b671e",
-    "url": "/zvz/static/js/2.1c47220f.chunk.js"
+    "revision": "a80df6894832f2b1cbc6",
+    "url": "/zvz/static/js/2.34ef996b.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/zvz/static/js/2.1c47220f.chunk.js.LICENSE.txt"
+    "url": "/zvz/static/js/2.34ef996b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fb56cb25f613382eb014",
-    "url": "/zvz/static/js/main.b93e9f32.chunk.js"
+    "revision": "b46015fddf9bdd703f4e",
+    "url": "/zvz/static/js/main.51c5a676.chunk.js"
   },
   {
     "revision": "cdd2f4bb133440a932d7",
@@ -92,8 +92,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/zvz/static/media/clubs-bg.1c0ffc62.jpg"
   },
   {
+    "revision": "d60017553751fa667e1c9ec2ce563f1a",
+    "url": "/zvz/static/media/doc.d6001755.pdf"
+  },
+  {
     "revision": "d2e0ec048a914f01c07dd7344728a08a",
     "url": "/zvz/static/media/helena.d2e0ec04.jpg"
+  },
+  {
+    "revision": "0fe36e5ffd084f662916ffe2a0ba37e3",
+    "url": "/zvz/static/media/i-inst.0fe36e5f.png"
+  },
+  {
+    "revision": "90ee9b028eb7bc6ef3c4f68cd9fb5817",
+    "url": "/zvz/static/media/i-vk.90ee9b02.png"
   },
   {
     "revision": "82aa21192506f720182ec283e311bad0",
@@ -118,6 +130,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c50defe101a18d11b61becef41da0b7b",
     "url": "/zvz/static/media/template.c50defe1.jpg"
+  },
+  {
+    "revision": "b88a7ad9731aec9d987926c9c50b207f",
+    "url": "/zvz/static/media/wp.b88a7ad9.jpg"
   },
   {
     "revision": "704312af72af7527761e339491c00da0",
